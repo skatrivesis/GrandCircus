@@ -1,0 +1,11 @@
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
