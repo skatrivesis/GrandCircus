@@ -4,60 +4,84 @@ namespace Lab2._1
 {
     class Program
     {
-        public static void Sizer(string size, int area)
-        {
-            
-        }
         static void Main(string[] args)
         {
-            string input;
+            //string input;
 
             double length;
             double width;
             double height;
-            double area;
-            double perimiter;
-            double volume;
-            bool flag = true;
+            double area = 0;
+            double perimiter = 0;
+            double volume = 0;
+            bool flag;
 
-            Console.WriteLine("Welcome to the room calculator!");
+            Console.WriteLine("Welcome to the room calculator!\n");
 
             do
             {
-                Console.Write("\nPlease enter room Length: ");
-                input = Console.ReadLine();
-                length = double.Parse(input);
+                PleaseEnter("length");
+                length = double.Parse(Input());
 
-                Console.Write("Please enter room Width: ");
-                input = Console.ReadLine();
-                width = double.Parse(input);
+                PleaseEnter("width");
+                width = double.Parse(Input());
 
-                Console.Write("Please enter room Height: ");
-                input = Console.ReadLine();
-                height = double.Parse(input);
+                PleaseEnter("height");
+                height = double.Parse(Input());
 
-                area = CalculateArea(length, width);
-                perimiter = CalculatePerimiter(length, width);
-                volume = CalculateVolume(length, width, height);
+                CalculateStats(length, width, height, ref area, ref perimiter, ref volume);
 
-                Console.WriteLine($"Area of the room is: {area}");
-                Console.WriteLine($"Perimiter of the room is : {perimiter}");
-                Console.WriteLine($"Volume of the room is: {volume}");
+                PrintStats(area, perimiter, volume);
 
                 Sizer(area);
 
-                Console.Write("Would you like to calculate another room? (Please input 1 for yes and 0 for no): ");
-                input = Console.ReadLine();
-
-                if (int.Parse(input) == 0)
-                {
-                    flag = !flag;
-                }
+                flag = RunAgain();
 
             } while (flag == true);
 
-            Console.WriteLine("Please enjoy your room sizes! Thank you have a great day!!");
+            Console.WriteLine("\nPlease enjoy your room sizes! Thank you have a great day!!");
 
+        }
+
+        private static void PleaseEnter(string x)
+        {
+            Console.Write($"Please enter room {x}: ");
+        }
+
+        private static bool RunAgain()
+        {
+            int input;
+
+            Console.Write("Would you like to calculate another room? (Please input 1 for yes and 0 for no): ");
+            input = int.Parse(Input());
+
+            if (input == 0)
+            {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
+        }
+
+        private static void CalculateStats(double length, double width, double height, ref double area, ref double perimiter, ref double volume)
+        {
+            area = CalculateArea(length, width);
+            perimiter = CalculatePerimiter(length, width);
+            volume = CalculateVolume(length, width, height);
+        }
+
+        private static void PrintStats(double area, double perimiter, double volume)
+        {
+            Console.WriteLine($"Area of the room is: {area}");
+            Console.WriteLine($"Perimiter of the room is : {perimiter}");
+            Console.WriteLine($"Volume of the room is: {volume}");
+        }
+
+        static string Input()
+        {
+            return Console.ReadLine();
         }
 
         static double CalculateVolume(double length, double width, double height)
