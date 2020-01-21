@@ -6,8 +6,6 @@ namespace Lab2._1
     {
         static void Main(string[] args)
         {
-            //string input;
-
             double length;
             double width;
             double height;
