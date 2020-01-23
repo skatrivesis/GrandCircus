@@ -7,14 +7,6 @@ namespace Lab2._3
     {
         static void Main(string[] args)
         {
-            //1.Try to figure these out without looking up others’ solutions!
-
-            //4.Write a method that will validate phone numbers.A phone number should be in the
-            //    following format: { area code of 3 digits} – { 3digits} – { 4 digits}
-            //such as 313 - 555 - 1212
-
-            //5.Write a method that will validate date based on the following format: (dd / mm / yyyy).
-
             bool flag;
             string name;
             string email;
