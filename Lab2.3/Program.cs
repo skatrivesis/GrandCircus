@@ -11,6 +11,7 @@ namespace Lab2._3
             string name;
             string email;
             string phoneNumber;
+            string birthday;
 
             Console.WriteLine("Hello and Welcome!!");
 
@@ -68,16 +69,47 @@ namespace Lab2._3
                 phoneNumber = input;
             } while (!flag);
 
-            PrintOutput(name, email, phoneNumber);
+            input = GetStringInput("Please enter your birthday in the following format [mm\\dd\\yyy]: ");
+
+            do
+            {
+                flag = ValidateDate(input);
+
+                if (!flag)
+                {
+                    input = GetStringInput("Input not correct. Please use the following format [mm\\dd\\yyy]: ");
+                }
+                else
+                {
+                    Console.WriteLine("Thank you for your input!");
+                }
+                birthday = input;
+            } while (!flag);
+
+            PrintOutput(name, email, phoneNumber, birthday);
 
         } //end main
-
-        private static void PrintOutput(string name, string email, string phoneNumber)
+        private static void PrintOutput(string name, string email, string phoneNumber, string birthday)
         {
             Console.WriteLine("Here is your information!");
             Console.WriteLine($"Name: {name}");
             Console.WriteLine($"Email: {email}");
             Console.WriteLine($"Phone Number: {phoneNumber}");
+            Console.WriteLine($"Birthday: {birthday}");
+        }
+
+        private static bool ValidateDate(string x)
+        {
+            string pattern = @"^\d{2}\/\d{2}\/\d{4}$";
+
+            if (Regex.IsMatch(x, pattern))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         private static bool ValidatePhoneNumber(string x)

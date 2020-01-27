@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Lab2.3\\Lab2.3.csproj": {}
+    "C:\\Users\\skatrivesis\\OneDrive - KNEX\\Documents\\GrandCircus\\Lab2.3\\Lab2.3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Lab2.3\\Lab2.3.csproj": {
+    "C:\\Users\\skatrivesis\\OneDrive - KNEX\\Documents\\GrandCircus\\Lab2.3\\Lab2.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Lab2.3\\Lab2.3.csproj",
+        "projectUniqueName": "C:\\Users\\skatrivesis\\OneDrive - KNEX\\Documents\\GrandCircus\\Lab2.3\\Lab2.3.csproj",
         "projectName": "Lab2.3",
-        "projectPath": "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Lab2.3\\Lab2.3.csproj",
+        "projectPath": "C:\\Users\\skatrivesis\\OneDrive - KNEX\\Documents\\GrandCircus\\Lab2.3\\Lab2.3.csproj",
         "packagesPath": "C:\\Users\\skatrivesis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Lab2.3\\obj\\",
+        "outputPath": "C:\\Users\\skatrivesis\\OneDrive - KNEX\\Documents\\GrandCircus\\Lab2.3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
