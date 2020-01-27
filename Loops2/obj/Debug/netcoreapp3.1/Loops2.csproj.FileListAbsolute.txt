@@ -1,0 +1,11 @@
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Loops2\bin\Debug\netcoreapp3.1\Loops2.exe
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Loops2\bin\Debug\netcoreapp3.1\Loops2.deps.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Loops2\bin\Debug\netcoreapp3.1\Loops2.runtimeconfig.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Loops2\bin\Debug\netcoreapp3.1\Loops2.runtimeconfig.dev.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Loops2\bin\Debug\netcoreapp3.1\Loops2.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Loops2\bin\Debug\netcoreapp3.1\Loops2.pdb
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Loops2\obj\Debug\netcoreapp3.1\Loops2.csprojAssemblyReference.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Loops2\obj\Debug\netcoreapp3.1\Loops2.AssemblyInfoInputs.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Loops2\obj\Debug\netcoreapp3.1\Loops2.AssemblyInfo.cs
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Loops2\obj\Debug\netcoreapp3.1\Loops2.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Loops2\obj\Debug\netcoreapp3.1\Loops2.pdb
