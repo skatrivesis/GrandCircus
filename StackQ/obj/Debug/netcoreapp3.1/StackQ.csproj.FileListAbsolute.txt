@@ -1,0 +1,11 @@
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\StackQ\bin\Debug\netcoreapp3.1\StackQ.exe
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\StackQ\bin\Debug\netcoreapp3.1\StackQ.deps.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\StackQ\bin\Debug\netcoreapp3.1\StackQ.runtimeconfig.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\StackQ\bin\Debug\netcoreapp3.1\StackQ.runtimeconfig.dev.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\StackQ\bin\Debug\netcoreapp3.1\StackQ.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\StackQ\bin\Debug\netcoreapp3.1\StackQ.pdb
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\StackQ\obj\Debug\netcoreapp3.1\StackQ.csprojAssemblyReference.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\StackQ\obj\Debug\netcoreapp3.1\StackQ.AssemblyInfoInputs.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\StackQ\obj\Debug\netcoreapp3.1\StackQ.AssemblyInfo.cs
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\StackQ\obj\Debug\netcoreapp3.1\StackQ.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\StackQ\obj\Debug\netcoreapp3.1\StackQ.pdb

@@ -1,0 +1,11 @@
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Methods2\bin\Debug\netcoreapp3.1\Methods2.exe
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Methods2\bin\Debug\netcoreapp3.1\Methods2.deps.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Methods2\bin\Debug\netcoreapp3.1\Methods2.runtimeconfig.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Methods2\bin\Debug\netcoreapp3.1\Methods2.runtimeconfig.dev.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Methods2\bin\Debug\netcoreapp3.1\Methods2.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Methods2\bin\Debug\netcoreapp3.1\Methods2.pdb
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Methods2\obj\Debug\netcoreapp3.1\Methods2.csprojAssemblyReference.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Methods2\obj\Debug\netcoreapp3.1\Methods2.AssemblyInfoInputs.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Methods2\obj\Debug\netcoreapp3.1\Methods2.AssemblyInfo.cs
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Methods2\obj\Debug\netcoreapp3.1\Methods2.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Methods2\obj\Debug\netcoreapp3.1\Methods2.pdb

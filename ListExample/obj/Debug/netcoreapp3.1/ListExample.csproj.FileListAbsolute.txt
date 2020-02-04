@@ -1,0 +1,11 @@
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\ListExample\bin\Debug\netcoreapp3.1\ListExample.exe
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\ListExample\bin\Debug\netcoreapp3.1\ListExample.deps.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\ListExample\bin\Debug\netcoreapp3.1\ListExample.runtimeconfig.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\ListExample\bin\Debug\netcoreapp3.1\ListExample.runtimeconfig.dev.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\ListExample\bin\Debug\netcoreapp3.1\ListExample.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\ListExample\bin\Debug\netcoreapp3.1\ListExample.pdb
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\ListExample\obj\Debug\netcoreapp3.1\ListExample.AssemblyInfoInputs.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\ListExample\obj\Debug\netcoreapp3.1\ListExample.AssemblyInfo.cs
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\ListExample\obj\Debug\netcoreapp3.1\ListExample.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\ListExample\obj\Debug\netcoreapp3.1\ListExample.pdb
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\ListExample\obj\Debug\netcoreapp3.1\ListExample.csprojAssemblyReference.cache

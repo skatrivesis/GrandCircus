@@ -12,7 +12,7 @@ namespace Lab3._1
 
             string[] pokemon = { "Ampharos", "Basculin", "Chimchar", "Duraladon", "Escavalier", "Feraligator", "Grubbin", "Heracross", "Ivysaur", "Jigglypuff" };
             string[] moves = { "Amnesia", "Bubblebeam", "Charm", "Dig", "Ember", "Feint", "Giga Drain", "Hex", "Ice Beam", "Jump Kick" };
-            string[] candy = { "Air Heads", "Butterfinger", "Chocolate", "Dots", "Extra Gum", "Fun Dip", "Gummi Bears", "Hot Tamales",  "Ice Breakers", "Jawbreaker" };
+            string[] candy = { "Air Heads", "Butterfinger", "Chocolate", "Dots", "Extra Gum", "Fun Dip", "Gummi Bears", "Hot Tamales", "Ice Breakers", "Jawbreaker" };
 
             bool flag;
             int statInput;
@@ -20,13 +20,13 @@ namespace Lab3._1
 
             do
             {
-                DisplayStudents(pokemon, moves, candy);
+                DisplayPokemon(pokemon, moves, candy);
 
                 pkmnSel = IntInput("Please enter a number for the Pokemon you wish to look into: ");
 
                 while (pkmnSel > pokemon.Length || pkmnSel <= 0)
                 {
-                pkmnSel = IntInput("That number is not assigned to a pokemon. Please enter a number for the Pokemon you wish to look into: ");
+                    pkmnSel = IntInput("That number is not assigned to a pokemon. Please enter a number for the Pokemon you wish to look into: ");
                 }
 
                 statInput = IntInput("What would you like to know about this Pokemon? 1. for (Favorite move) | 2. for (Favorite candy) : ");
@@ -35,7 +35,7 @@ namespace Lab3._1
                 {
                     statInput = IntInput("\nNot a valid entry, please input a valid entry.\nWhat would you like to know about this Pokemon? 1. for (Favorite move) | 2. for (Favorite candy) : ");
                 }
-                
+
                 if (statInput == 1)
                 {
                     Console.WriteLine($"{pokemon[pkmnSel - 1]}'s favorite move is {moves[pkmnSel - 1]}");
@@ -43,14 +43,14 @@ namespace Lab3._1
                 else if (statInput == 2)
                 {
                     Console.WriteLine($"{pokemon[pkmnSel - 1]}'s favorite candy is {candy[pkmnSel - 1]}");
-                } 
+                }
 
                 flag = RunAgain();
-                
+
             } while (flag);
         } //end main
 
-        private static void DisplayStudents(string[] pokemon, string[] moves, string[] candy)
+        private static void DisplayPokemon(string[] pokemon, string[] moves, string[] candy)
         {
             Console.WriteLine(String.Format("{0,15} | {1,-25} | {2,-25} | {3,-25}", "Pokemon Number", "Pokemon", "Favorite Moves", "Favorite Candy"));
             Console.WriteLine("========================================================================================================");
@@ -84,7 +84,7 @@ namespace Lab3._1
             {
                 Console.WriteLine("Thank you have a good day!");
                 return false;
-            } 
+            }
             else
             {
                 Console.WriteLine("Let us run it again!\n");
