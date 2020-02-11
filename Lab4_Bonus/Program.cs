@@ -11,7 +11,10 @@ namespace Lab4_Bonus
 
             do
             {
-                word = StrInput("Word: ").ToLower();
+                do
+                {
+                    word = StrInput("Word: ").ToLower();
+                } while (word.Length == 0);
 
                 location = FindVowelLocation(word);
 
@@ -24,6 +27,15 @@ namespace Lab4_Bonus
                     Console.WriteLine(PigLatinize(word, location));
                 }
             } while (ContinueProgram());
+        }
+
+        private static void Header(int x)
+        {
+            for (int i = 0; i < x; i++)
+            {
+                Console.Write("=");
+            }
+            Console.WriteLine();
         }
 
         private static int FindVowelLocation(string word)

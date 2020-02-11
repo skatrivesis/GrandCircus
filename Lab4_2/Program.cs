@@ -46,7 +46,7 @@ namespace Lab4_2
                 }
             }
 
-            Console.WriteLine("Categories\n=========================");
+            Console.WriteLine("Categories\n========================="); 
 
             for (int i = 0; i < categories.Count; i++)
             {
@@ -56,15 +56,14 @@ namespace Lab4_2
             do
             {
                 selection = IntInput("Input category number: ");
-                if (selection > categories.Count || selection < 0)
+                if (selection > categories.Count || selection <= 0)
                 {
                     Console.WriteLine("\nInput invalid, please try again.\n");
                 }
-            } while (selection > categories.Count || selection < 0);
+            } while (selection > categories.Count || selection <= 0);
 
             return categories[selection - 1];
         }
-
         private static void ResultCategories(bool flag, string input, List<Movie> movies)
         {
             Console.WriteLine();

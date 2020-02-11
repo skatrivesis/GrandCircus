@@ -1,0 +1,11 @@
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Classes3\bin\Debug\netcoreapp3.1\Classes3.exe
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Classes3\bin\Debug\netcoreapp3.1\Classes3.deps.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Classes3\bin\Debug\netcoreapp3.1\Classes3.runtimeconfig.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Classes3\bin\Debug\netcoreapp3.1\Classes3.runtimeconfig.dev.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Classes3\bin\Debug\netcoreapp3.1\Classes3.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Classes3\bin\Debug\netcoreapp3.1\Classes3.pdb
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Classes3\obj\Debug\netcoreapp3.1\Classes3.AssemblyInfoInputs.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Classes3\obj\Debug\netcoreapp3.1\Classes3.AssemblyInfo.cs
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Classes3\obj\Debug\netcoreapp3.1\Classes3.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Classes3\obj\Debug\netcoreapp3.1\Classes3.pdb
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Classes3\obj\Debug\netcoreapp3.1\Classes3.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.exe
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.deps.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.runtimeconfig.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.runtimeconfig.dev.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.pdb
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.AssemblyInfoInputs.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.AssemblyInfo.cs
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.pdb

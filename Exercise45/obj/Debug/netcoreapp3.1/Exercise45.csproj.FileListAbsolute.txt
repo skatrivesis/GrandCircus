@@ -1,0 +1,11 @@
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Exercise45\bin\Debug\netcoreapp3.1\Exercise45.exe
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Exercise45\bin\Debug\netcoreapp3.1\Exercise45.deps.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Exercise45\bin\Debug\netcoreapp3.1\Exercise45.runtimeconfig.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Exercise45\bin\Debug\netcoreapp3.1\Exercise45.runtimeconfig.dev.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Exercise45\bin\Debug\netcoreapp3.1\Exercise45.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Exercise45\bin\Debug\netcoreapp3.1\Exercise45.pdb
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Exercise45\obj\Debug\netcoreapp3.1\Exercise45.csprojAssemblyReference.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Exercise45\obj\Debug\netcoreapp3.1\Exercise45.AssemblyInfoInputs.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Exercise45\obj\Debug\netcoreapp3.1\Exercise45.AssemblyInfo.cs
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Exercise45\obj\Debug\netcoreapp3.1\Exercise45.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Exercise45\obj\Debug\netcoreapp3.1\Exercise45.pdb
