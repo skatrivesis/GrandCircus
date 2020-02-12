@@ -1,0 +1,11 @@
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\Lab5.1\bin\Debug\netcoreapp3.1\Lab5_1.exe
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\Lab5.1\bin\Debug\netcoreapp3.1\Lab5_1.deps.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\Lab5.1\bin\Debug\netcoreapp3.1\Lab5_1.runtimeconfig.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\Lab5.1\bin\Debug\netcoreapp3.1\Lab5_1.runtimeconfig.dev.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\Lab5.1\bin\Debug\netcoreapp3.1\Lab5_1.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\Lab5.1\bin\Debug\netcoreapp3.1\Lab5_1.pdb
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\Lab5.1\obj\Debug\netcoreapp3.1\Lab5_1.csprojAssemblyReference.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\Lab5.1\obj\Debug\netcoreapp3.1\Lab5_1.AssemblyInfoInputs.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\Lab5.1\obj\Debug\netcoreapp3.1\Lab5_1.AssemblyInfo.cs
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\Lab5.1\obj\Debug\netcoreapp3.1\Lab5_1.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\Lab5.1\obj\Debug\netcoreapp3.1\Lab5_1.pdb
