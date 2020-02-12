@@ -1,0 +1,11 @@
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\RobotSimulator\bin\Debug\netcoreapp3.1\RobotSimulator.exe
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\RobotSimulator\bin\Debug\netcoreapp3.1\RobotSimulator.deps.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\RobotSimulator\bin\Debug\netcoreapp3.1\RobotSimulator.runtimeconfig.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\RobotSimulator\bin\Debug\netcoreapp3.1\RobotSimulator.runtimeconfig.dev.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\RobotSimulator\bin\Debug\netcoreapp3.1\RobotSimulator.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\RobotSimulator\bin\Debug\netcoreapp3.1\RobotSimulator.pdb
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\RobotSimulator\obj\Debug\netcoreapp3.1\RobotSimulator.csprojAssemblyReference.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\RobotSimulator\obj\Debug\netcoreapp3.1\RobotSimulator.AssemblyInfoInputs.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\RobotSimulator\obj\Debug\netcoreapp3.1\RobotSimulator.AssemblyInfo.cs
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\RobotSimulator\obj\Debug\netcoreapp3.1\RobotSimulator.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\RobotSimulator\obj\Debug\netcoreapp3.1\RobotSimulator.pdb
