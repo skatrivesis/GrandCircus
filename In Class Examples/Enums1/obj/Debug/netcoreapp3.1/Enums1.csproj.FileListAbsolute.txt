@@ -1,0 +1,10 @@
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\In Class Examples\Enums1\bin\Debug\netcoreapp3.1\Enums1.exe
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\In Class Examples\Enums1\bin\Debug\netcoreapp3.1\Enums1.deps.json
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\In Class Examples\Enums1\bin\Debug\netcoreapp3.1\Enums1.runtimeconfig.json
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\In Class Examples\Enums1\bin\Debug\netcoreapp3.1\Enums1.runtimeconfig.dev.json
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\In Class Examples\Enums1\bin\Debug\netcoreapp3.1\Enums1.dll
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\In Class Examples\Enums1\bin\Debug\netcoreapp3.1\Enums1.pdb
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\In Class Examples\Enums1\obj\Debug\netcoreapp3.1\Enums1.AssemblyInfoInputs.cache
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\In Class Examples\Enums1\obj\Debug\netcoreapp3.1\Enums1.AssemblyInfo.cs
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\In Class Examples\Enums1\obj\Debug\netcoreapp3.1\Enums1.dll
+C:\Users\skatrivesis\OneDrive - KNEX\Documents\GrandCircus\In Class Examples\Enums1\obj\Debug\netcoreapp3.1\Enums1.pdb
