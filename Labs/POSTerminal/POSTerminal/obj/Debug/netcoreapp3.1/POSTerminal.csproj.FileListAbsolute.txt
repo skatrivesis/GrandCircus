@@ -1,0 +1,11 @@
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\POSTerminal\POSTerminal\bin\Debug\netcoreapp3.1\POSTerminal.exe
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\POSTerminal\POSTerminal\bin\Debug\netcoreapp3.1\POSTerminal.deps.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\POSTerminal\POSTerminal\bin\Debug\netcoreapp3.1\POSTerminal.runtimeconfig.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\POSTerminal\POSTerminal\bin\Debug\netcoreapp3.1\POSTerminal.runtimeconfig.dev.json
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\POSTerminal\POSTerminal\bin\Debug\netcoreapp3.1\POSTerminal.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\POSTerminal\POSTerminal\bin\Debug\netcoreapp3.1\POSTerminal.pdb
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\POSTerminal\POSTerminal\obj\Debug\netcoreapp3.1\POSTerminal.csprojAssemblyReference.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\POSTerminal\POSTerminal\obj\Debug\netcoreapp3.1\POSTerminal.AssemblyInfoInputs.cache
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\POSTerminal\POSTerminal\obj\Debug\netcoreapp3.1\POSTerminal.AssemblyInfo.cs
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\POSTerminal\POSTerminal\obj\Debug\netcoreapp3.1\POSTerminal.dll
+C:\Users\skatrivesis\OneDrive - Knex\Documents\GrandCircus\Labs\POSTerminal\POSTerminal\obj\Debug\netcoreapp3.1\POSTerminal.pdb
